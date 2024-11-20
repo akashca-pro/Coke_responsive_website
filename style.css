@@ -1,0 +1,47 @@
+
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #eeee ;
+}
+
+
+/* Navigation */
+
+span{
+    font-weight: 500;
+    padding: 1rem;
+}
+.img-slider{
+    overflow: hidden;
+    border-radius: 20px;
+}
+.mt-6{
+    margin-top: 8rem;
+}
+h2{
+    font-weight: 600;
+}
+
+/* Navigation Ends */
+.div-zoom:hover{
+    transform: scale(1.1);
+    transition: all 0.4s ease-in-out;
+    
+}
+.ps-8{
+    padding-left: 7rem;
+}
+
+.pe-8{
+    padding-right: 7rem;
+}
+.policy{
+    font-size: 20px;
+}
+.p-10{
+    padding: 7rem;
+}
